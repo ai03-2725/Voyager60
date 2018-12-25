@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Voyager60-rescue)(type Legacy)(uri ${KIPRJMOD}/Voyager60-rescue.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrids)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib")(options "")(descr ""))
+  (lib (name Molex-0548190589)(type Legacy)(uri "${KIPRJMOD}/Molex-0548190589.pretty/Schematic Library/Molex-0548190589.lib")(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name ai03-locallib)(type Legacy)(uri ${KIPRJMOD}/locallib.pretty/schema/ai03-locallib.lib)(options "")(descr ""))
+)
