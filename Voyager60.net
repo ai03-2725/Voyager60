@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\Ryota\Documents\GitHub\Voyager60\Voyager60.sch)
-    (date "12/25/2018 6:51:19 PM")
+    (date "12/25/2018 9:45:20 PM")
     (tool "Eeschema (5.0.0)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1229,7 +1229,7 @@
       (tstamp 5B36FECB))
     (comp (ref USB1)
       (value HRO-TYPE-C-31-M-12)
-      (footprint Type-C:HRO-TYPE-C-31-M-12)
+      (footprint Type-C:HRO-TYPE-C-31-M-12-Assembly)
       (libsource (lib Type-C) (part HRO-TYPE-C-31-M-12) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5B361237))
