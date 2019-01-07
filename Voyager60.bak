@@ -2317,13 +2317,13 @@ Text GLabel 8750 7200 2    60   Input ~ 0
 COL5
 Text GLabel 8750 7300 2    60   Input ~ 0
 COL4
-Text GLabel 8750 8900 2    60   Input ~ 0
-COL3
 Text GLabel 8750 9100 2    60   Input ~ 0
+COL3
+Text GLabel 8750 9000 2    60   Input ~ 0
 COL2
 Text GLabel 8750 9200 2    60   Input ~ 0
 COL1
-Text GLabel 8750 9000 2    60   Input ~ 0
+Text GLabel 8750 8900 2    60   Input ~ 0
 COL0
 Text GLabel 8750 7700 2    60   Input ~ 0
 ROW4
@@ -4467,4 +4467,15 @@ Connection ~ 2075 3925
 Wire Wire Line
 	1875 4750 1875 4125
 Connection ~ 1875 4125
+Wire Wire Line
+	1475 3275 925  3275
+Wire Wire Line
+	725  3475 1200 3475
+Connection ~ 1200 3475
+Wire Wire Line
+	1325 3425 775  3425
+Connection ~ 1325 3425
+Wire Wire Line
+	875  3325 1425 3325
+Connection ~ 1425 3325
 $EndSCHEMATC

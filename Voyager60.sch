@@ -2317,17 +2317,17 @@ Text GLabel 8750 7200 2    60   Input ~ 0
 COL5
 Text GLabel 8750 7300 2    60   Input ~ 0
 COL4
-Text GLabel 8750 8900 2    60   Input ~ 0
-COL3
 Text GLabel 8750 9100 2    60   Input ~ 0
+COL3
+Text GLabel 8750 9000 2    60   Input ~ 0
 COL2
 Text GLabel 8750 9200 2    60   Input ~ 0
 COL1
-Text GLabel 8750 9000 2    60   Input ~ 0
+Text GLabel 8750 8900 2    60   Input ~ 0
 COL0
-Text GLabel 8750 7700 2    60   Input ~ 0
+Text GLabel 8750 8800 2    60   Input ~ 0
 ROW4
-Text GLabel 8750 7600 2    60   Input ~ 0
+Text GLabel 8750 8700 2    60   Input ~ 0
 ROW3
 Text GLabel 8750 6600 2    60   Input ~ 0
 ROW2
