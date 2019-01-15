@@ -8,6 +8,7 @@ A versatile, modern 60% PCB
 * RGB underglow
 * Decent amount of layout compatibility - [View supported layouts](http://www.keyboard-layout-editor.com/#/gists/c13b7f096e4a905736771dd79d809fa2)
 * Slot cutout for maximum flexibility and typing comfort
+* Over-current and static discharge protection
 * Fully open-source
 
 ### The Voyager PCB Family
