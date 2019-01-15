@@ -3,4 +3,5 @@
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri "$(KIPRJMOD)/MX_Alps_Hybrid.pretty")(options "")(descr ""))
   (lib (name locallib)(type KiCad)(uri "$(KIPRJMOD)/locallib.pretty")(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri "$(KIPRJMOD)/Type-C.pretty")(options "")(descr ""))
+  (lib (name WS2812B)(type KiCad)(uri ${KIPRJMOD}/WS2812B.pretty)(options "")(descr ""))
 )
