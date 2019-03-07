@@ -1,7 +1,7 @@
 # Voyager60-Alps
 A fully featured Alps-specific 60% PCB
 
-![Render](https://github.com/ai03-2725/Voyager60/blob/master/Renders/Front.png)
+![Render](https://raw.githubusercontent.com/ai03-2725/Voyager60/alps/Renders/Front.png)
 
 ### Features
 * RGB underglow
