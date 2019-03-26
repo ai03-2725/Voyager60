@@ -4209,7 +4209,7 @@ Wire Wire Line
 Wire Wire Line
 	6325 3975 6225 3975
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-MU U1
+L Voyager60-rescue:ATmega32U4-MU-MCU_Microchip_ATmega U1
 U 1 1 5D93C3AA
 P 8150 7800
 F 0 "U1" H 8150 5914 50  0000 C CNN
